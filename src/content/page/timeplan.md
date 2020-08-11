@@ -27,12 +27,12 @@ Jul 05|        |  <font color="green">Assignment 0 posted</font>   |  | [nb](htt
 Aug 04| 15-18        |  Assignment 0 online workshop `*`  |  JSRP | [pdf](https://github.com/abjer/isds2020/blob/master/assignments/assignment0/assignment0_workshop_slides.pdf)|
 Aug 07|  12:00 | <font color="red">Assignment 0 hand-in</font>  |  |  
       |       | ---------   Week 1  --------- | | |
-Aug 10|  9-10 | 1a. Course welcome | DDL |
- | 10-11 | 1b. Python intro  | ABN |  
+Aug 10|  9-10 | 1a. Course welcome | DDL |  [pdf](https://github.com/abjer/isds2020/blob/master/teaching_material/session_1/lecture_1a.pdf)
+ | 10-11 | 1b. Python intro  | ABN |  [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_1/lecture_1b.ipynb)
  | 11-12 | 1c. Meet group and intro to git  | TAs |  
- | 14-17 | 2. Strings, queries and APIs | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_2/module_2.ipynb)
+ | 14-17 | 2. Strings, queries and APIs | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_2/module_2.ipynb), [nb sol](https://github.com/abjer/isds2020/blob/master/teaching_material/session_2/module_2_solution.ipynb)
 Aug 11|  9-12 | 3. Visualizations | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_3/module_3.ipynb)
- | 14-17 | 4. Data structuring 1 | ABN & TAs|
+ | 14-17 | 4. Data structuring 1 | ABN & TAs| [nb](https://github.com/abjer/isds2020/blob/master/teaching_material/session_4/module_4.ipynb)
 Aug 12|  9-12 | 5. Data structuring 2 | ABN & TAs|
  | 14-17 | 6. Scraping 1 | NJ & TAs|
  | 23:59 |  <font color="green">Assignment 1 posted</font>   |--  |  
@@ -42,7 +42,7 @@ Aug 14 | 9-11 | 9a. Big Data and Ethics | DDL |
  | 11-12  | 9b. Assignment 1 workshop | TAs |
  | 14-16 | Supervision 1 `*` | TAs |
  | 23:59 |  <font color="red">Assignment 1 hand-in</font>   |  |  
-      |       | ---------   Week 2  --------- | |
+ |       | ---------   Week 2  --------- | |
 Aug 17|  9-12 | 11. Machine learning intro | ABN & TAs|
 Aug 17| 14-17 | 12. Supervised learning 1 | ABN & TAs|  
 Aug 18|  9-12 | 13. Supervised learning 2 | ABN & TAs|  
@@ -61,7 +61,7 @@ Aug 24| 9-11 |  *Supervision 3* `*` | TAs |
 #### Main lecturers
 - [Andreas Bjerre-Nielsen (ABN)](https://abjer.github.io)
 - [David Dreyer Lassen (DDL)](https://daviddlassen.github.io/)
-- Nicklas Johansen (NJ)
+- [Nicklas Johansen (NJ)](https://nicklasjohansen.github.io/)
 - Terne Sasha Thorn Jakobsen (TJ)
 
 #### Teaching assistants (TAs)
@@ -93,6 +93,4 @@ Aug 24| 9-11 |  *Supervision 3* `*` | TAs |
 #### Legend
 - nb: Slides and exercise in Jupyter Notebook format
 - nb sol: Slides and exercise in Jupyter Notebook format (Without solutions to the exercises you have to hand in)
-- pdf: Slides in pdf format
-- key: Slides in Apple Keynote format
-- pptx: PowerPoint slides
+- pdf: Slides in PDF format
